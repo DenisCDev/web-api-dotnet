@@ -4,6 +4,7 @@
 
 - C#
 - .NET
+- Entity
 - PostgreSQL
 
 # Comando para executar no banco postgresql
