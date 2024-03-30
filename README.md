@@ -1,4 +1,10 @@
-# web-api-dotnet-core
+# Web API
+
+## Ferramentas utilizadas
+
+- C#
+- .NET
+- PostgreSQL
 
 # Comando para executar no banco postgresql
 
